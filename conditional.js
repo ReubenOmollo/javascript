@@ -21,7 +21,7 @@
 //  console.log( " good evining")   ;
 // }
 
-let percentage = 45;
+let percentage =50;
 
 if (percentage >= 90) {
    console.log (`The student's percentage is: ${percentage}%, and their score is A`); 
